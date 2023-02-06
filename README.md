@@ -697,7 +697,7 @@ Contributed by: [@RuslansAleksejevs](https://github.com/RuslansAleksejevs)
 ## Correct grammar from native language to any spoken language, translated grammatically correctly
 Contributed by: [@Dan2020dan](https://github.com/Dan2020dan)
 
-> Corrects the following sentence in any language: <<Language:>>, <<sentence>>. I will give you the language and sentence immediately, but now only respond with OK if you understand.
+> Corrects the following sentence in any language: "Language:", "sentence". I will give you the language and sentence immediately, but now only respond with OK if you understand.
 
 ## Contributors 😍
 
